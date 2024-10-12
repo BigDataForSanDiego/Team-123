@@ -20,15 +20,15 @@
 -->
 
 
-- [X] Access to care
+- [ ] Access to care
 > How can we make it easier to access care (especially specialists) and provide clear, timely notifications, and reminders along their healthcare journey?
-- [X] Patient satisfaction
+- [ ] Patient satisfaction
 > How can we make it more convenient for patients to provide real-time feedback about their healthcare experience through a mobile app?
-- [X] New patient experience
+- [ ] New patient experience
 > As a potential new customer, how can we leverage the mobile app to help new patients better understand what services are available to them?
-- [X] Managing my health
+- [ ] Managing my health
 > It's easy to get overwhelmed by all the tasks patients often have to do to maintain their health, how can we make managing health more enjoyable?
-- [X] Addressing mental health challenges
+- [ ] Addressing mental health challenges
 > Mental health challenges may be difficult to identify and have a broad impact on health, how can we help clinicians be more in tune with patients mental health needs?
 
 
