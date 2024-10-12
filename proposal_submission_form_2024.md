@@ -8,8 +8,10 @@
 ##### `Mental health challenges often go undetected in patients, significantly impacting their overall well-being and quality of life. Clinicians struggle to accurately assess and monitor mental health due to a lack of real-time data and culturally relevant interventions. To address this issue, we propose an AI-driven solution that integrates Indian Yoga techniques and meditation practices into a holistic mental health management system. This system will enable clinicians to effectively monitor and assess patients’ mental health by leveraging real-time physiological data, emotional analytics, and personalized Yoga and meditation recommendations, ultimately improving mental health outcomes and fostering a deeper understanding of patients' needs.`
 
 
-#### A visual
-![PeaceMate: Namaste Your Stress Away!](https://raw.githubusercontent.com/BigDataForSanDiego/Team-123/refs/heads/main/Product%20Logo.jpeg")
+#### A visual  
+![Product Logo](https://raw.githubusercontent.com/BigDataForSanDiego/Team-123/refs/heads/main/Product%20Logo.jpeg "PeaceMate: Namaste Your Stress Away!")  
+
+<img height="10%" width="50%" alt="Product Logo" src="https://raw.githubusercontent.com/BigDataForSanDiego/Team-123/refs/heads/main/Product%20Logo.jpeg">
 
 <!--
 #### Theme: Enhancing Healthcareâ€™s Digital Front Door
