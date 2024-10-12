@@ -9,7 +9,9 @@
 
 
 #### A visual  
-![Product Logo](https://raw.githubusercontent.com/BigDataForSanDiego/Team-123/refs/heads/main/Product%20Logo.jpeg){ width=40% }
+#### A visual  
+<img src="https://raw.githubusercontent.com/BigDataForSanDiego/Team-123/refs/heads/main/Product%20Logo.jpeg" width="40%">
+
 
 
 
