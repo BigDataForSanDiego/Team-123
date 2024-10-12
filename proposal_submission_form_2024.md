@@ -9,7 +9,8 @@
 
 
 #### A visual  
-![Product Logo](https://raw.githubusercontent.com/BigDataForSanDiego/Team-123/refs/heads/main/Product%20Logo.jpeg "PeaceMate: Namaste Your Stress Away!")  
+![Product Logo](https://raw.githubusercontent.com/BigDataForSanDiego/Team-123/refs/heads/main/Product%20Logo.jpeg){ width=40% }
+
 
 
 <!--
