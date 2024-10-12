@@ -20,7 +20,7 @@
 #### - Digital solutions to help increase access, manage health, and improve patient satisfaction along the healthcare journey -  
 -->
 
-#### Hackathon Five CORE Themes. `CHECK ONE or TWO QUESTIONS (insert X in [ ])`.
+
 - [X] Access to care
 > How can we make it easier to access care (especially specialists) and provide clear, timely notifications, and reminders along their healthcare journey?
 - [X] Patient satisfaction
@@ -32,7 +32,7 @@
 - [X] Addressing mental health challenges
 > Mental health challenges may be difficult to identify and have a broad impact on health, how can we help clinicians be more in tune with patients mental health needs?
 
-#### Optional Questions. `TEAMS CAN SELECT ONE ADDITIONAL OPTIONAL QUESTION (insert X in [ ])`
+
 - [ ] Cultural Competence in Healthcare
 > How can we design a mobile app that helps healthcare providers better understand and respect cultural differences, improving communication and care for diverse patient populations?
 - [ ] Access to Care for Rural and Remote Communities
