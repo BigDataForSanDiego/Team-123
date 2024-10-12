@@ -9,8 +9,7 @@
 
 
 #### A visual
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "PeaceMate: Namaste Your Stress Away!")
-<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
+![PeaceMate: Namaste Your Stress Away!](https://raw.githubusercontent.com/BigDataForSanDiego/Team-123/refs/heads/main/Product%20Logo.jpeg")
 
 <!--
 #### Theme: Enhancing Healthcareâ€™s Digital Front Door
