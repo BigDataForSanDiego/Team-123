@@ -20,19 +20,19 @@
 -->
 
 
-- [ ] Access to care
+- [X] Access to care
 > How can we make it easier to access care (especially specialists) and provide clear, timely notifications, and reminders along their healthcare journey?
-- [ ] Patient satisfaction
+- [X] Patient satisfaction
 > How can we make it more convenient for patients to provide real-time feedback about their healthcare experience through a mobile app?
-- [ ] New patient experience
+- [X] New patient experience
 > As a potential new customer, how can we leverage the mobile app to help new patients better understand what services are available to them?
-- [ ] Managing my health
+- [X] Managing my health
 > It's easy to get overwhelmed by all the tasks patients often have to do to maintain their health, how can we make managing health more enjoyable?
-- [ ] Addressing mental health challenges
+- [X] Addressing mental health challenges
 > Mental health challenges may be difficult to identify and have a broad impact on health, how can we help clinicians be more in tune with patients mental health needs?
 
 
-- [ ] Cultural Competence in Healthcare
+- [X] Cultural Competence in Healthcare
 > How can we design a mobile app that helps healthcare providers better understand and respect cultural differences, improving communication and care for diverse patient populations?
 - [ ] Access to Care for Rural and Remote Communities
 > How can we leverage technology to improve healthcare access for rural and remote communities, ensuring timely and specialized care for those in underserved areas? (Focus on SDSU Imperial Valley Connection - Rural/Remote)
