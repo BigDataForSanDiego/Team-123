@@ -11,7 +11,6 @@
 #### A visual  
 ![Product Logo](https://raw.githubusercontent.com/BigDataForSanDiego/Team-123/refs/heads/main/Product%20Logo.jpeg "PeaceMate: Namaste Your Stress Away!")  
 
-<img height="10%" width="50%" alt="Product Logo" src="https://raw.githubusercontent.com/BigDataForSanDiego/Team-123/refs/heads/main/Product%20Logo.jpeg">
 
 <!--
 #### Theme: Enhancing Healthcareâ€™s Digital Front Door
