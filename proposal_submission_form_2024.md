@@ -43,10 +43,11 @@
 
 
 #### Team Coordinator  
-GitHub Username: [Arbaaz Attar - Arbaz8888](https://github.com/Arbaz8888)  
+Jani Miya Shaik; GitHub - [janimiyarj](https://github.com/janimiyarj)  
 
 #### Team Members  
 1. Apoorv Vaishampayan; GitHub - [ApoorvVaishampayan](https://github.com/ApoorvVaishampayan)  
 2. Arbazuddin Mohammad; GitHub - [Arbazmohammad](https://github.com/Arbazmohammad)  
-3. Jani Miya Shaik; GitHub - [janimiyarj](https://github.com/janimiyarj)  
+3. Arbaaz Attar; GitHub - [Arbaz8888](https://github.com/Arbaz8888)  
+
 
