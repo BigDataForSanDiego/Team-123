@@ -6,7 +6,7 @@
 
 #### Team Coordinator GitHub Username: arkajitd-hub
 
-#### Team Members: JIYA RATHI, Parshav Pagaria, Monjima Lahiri
+#### Team Members: Arkajit Dutta, JIYA RATHI, Parshav Pagaria, Monjima Lahiri
 
 #### Your team’s hackathon idea in One sentence:
 ##### A barcode-powered identity system that securely tracks and updates homeless individuals’ records while generating privacy-safe location heatmaps to improve outreach and aid delivery
