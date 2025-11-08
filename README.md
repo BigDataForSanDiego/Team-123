@@ -11,10 +11,11 @@
 #### Your team’s hackathon idea in One sentence:
 ##### A barcode-powered identity system that securely tracks and updates homeless individuals’ records while generating privacy-safe location heatmaps to improve outreach and aid delivery
 
-#### A visual
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/images/big_data_2025_clip.png?raw=true "Big Data Hackathon for San Diego 2025")
+#### 🖼️ App UI – Figma Prototype
 
-<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
+[![Group 1](https://github.com/arkajitd-hub/Homeless-Help/blob/main/group1.png?raw=true "Figma UI – Screen 1")]([<your-figma-link>](https://www.figma.com/design/bcurwj6L0DkAVTIL7Zl8eb/2-MB?node-id=4-18&t=16WZMnVNNzsNNdNP-0))
+[![Group 2](https://github.com/arkajitd-hub/Homeless-Help/blob/main/group2.png?raw=true "Figma UI – Screen 2")]([<your-figma-link>](https://www.figma.com/design/bcurwj6L0DkAVTIL7Zl8eb/2-MB?node-id=4-18&t=16WZMnVNNzsNNdNP-0))
+[![Group 3](https://github.com/arkajitd-hub/Homeless-Help/blob/main/group3.png?raw=true "Figma UI – Screen 3")]([<your-figma-link>](https://www.figma.com/design/bcurwj6L0DkAVTIL7Zl8eb/2-MB?node-id=4-18&t=16WZMnVNNzsNNdNP-0)) 
 
 
 #### Hackathon Five CORE Themes. `CHECK ONE or TWO QUESTIONS (insert X in [ ])`.
