@@ -11,11 +11,19 @@
 #### Your team’s hackathon idea in One sentence:
 ##### A barcode-powered identity system that securely tracks and updates homeless individuals’ records while generating privacy-safe location heatmaps to improve outreach and aid delivery
 
-#### App UI – Figma Prototype
+<h4 align="center">🖥️ Figma UI Preview</h4>
 
-[![Group 1](https://github.com/arkajitd-hub/Homeless-Help/blob/main/group1.png?raw=true "Figma UI – Screen 1")]([<your-figma-link>](https://www.figma.com/design/bcurwj6L0DkAVTIL7Zl8eb/2-MB?node-id=4-18&t=16WZMnVNNzsNNdNP-0))
-[![Group 2](https://github.com/arkajitd-hub/Homeless-Help/blob/main/group2.png?raw=true "Figma UI – Screen 2")]([<your-figma-link>](https://www.figma.com/design/bcurwj6L0DkAVTIL7Zl8eb/2-MB?node-id=4-18&t=16WZMnVNNzsNNdNP-0))
-[![Group 3](https://github.com/arkajitd-hub/Homeless-Help/blob/main/group3.png?raw=true "Figma UI – Screen 3")]([<your-figma-link>](https://www.figma.com/design/bcurwj6L0DkAVTIL7Zl8eb/2-MB?node-id=4-18&t=16WZMnVNNzsNNdNP-0)) 
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://www.figma.com/file/<your-figma-id>?type=design&mode=design" target="_blank">
+    <img src="https://github.com/arkajitd-hub/Homeless-Help/blob/main/group1.png?raw=true" alt="UI Screen 1" style="max-width: 30%; min-width: 220px; height: auto; border-radius: 8px;">
+  </a>
+  <a href="https://www.figma.com/file/<your-figma-id>?type=design&mode=design" target="_blank">
+    <img src="https://github.com/arkajitd-hub/Homeless-Help/blob/main/group2.png?raw=true" alt="UI Screen 2" style="max-width: 30%; min-width: 220px; height: auto; border-radius: 8px;">
+  </a>
+  <a href="https://www.figma.com/file/<your-figma-id>?type=design&mode=design" target="_blank">
+    <img src="https://github.com/arkajitd-hub/Homeless-Help/blob/main/group4.png?raw=true" alt="UI Screen 3" style="max-width: 30%; min-width: 220px; height: auto; border-radius: 8px;">
+  </a>
+</p>
 
 
 #### Hackathon Five CORE Themes. `CHECK ONE or TWO QUESTIONS (insert X in [ ])`.
