@@ -9,7 +9,7 @@
 #### Team Members: JIYA RATHI, Parshav Pagaria, Monjima Lahiri
 
 #### Your team’s hackathon idea in One sentence:
-##### Digital ID for homeless 
+##### A barcode-powered identity system that securely tracks and updates homeless individuals’ records while generating privacy-safe location heatmaps to improve outreach and aid delivery
 
 #### A visual
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/images/big_data_2025_clip.png?raw=true "Big Data Hackathon for San Diego 2025")
